@@ -95,3 +95,5 @@ ReactDOM.render(
 );
 
 reportWebVitals(console.log);
+
+export default App;
